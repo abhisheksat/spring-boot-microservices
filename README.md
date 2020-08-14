@@ -1,3 +1,4 @@
 # spring-boot-microservices
 Creating Spring Boot Microservice
-Demo project for Microservice
+
+This project covers essentials of developing microservices using Java + Spring Boot
